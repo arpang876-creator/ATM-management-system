@@ -9,18 +9,22 @@ This is a simple Python-based ATM Management System created to practice Python p
 - Deposit Money
 - Withdraw Money
 - Check Balance
+- PIN Verification
+- Input Validation
 - Menu Driven Interface
-- Basic Exception Handling
+- Exception Handling
 
 ## Future Updates
 
 I will continue improving this project by adding:
 
-- Better User Interface
-- Input Validation
 - Transaction History
-- Object Oriented Programming 
-- More ATM Features
+- File Handling
+- Balance Storage
+- Multiple User Accounts
+- PIN Change Feature
+- Object-Oriented Programming
+- Database Integration
 
 This project is currently under development and will be updated.
 
