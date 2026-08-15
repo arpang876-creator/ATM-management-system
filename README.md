@@ -21,7 +21,7 @@ This is a simple Python-based ATM Management System created with Python programm
 
 I will continue improving this project by adding:
 
-- Multiple user and accounts
+- Multiple user and accounts<br>
 - Transaction Date and time
 
 
