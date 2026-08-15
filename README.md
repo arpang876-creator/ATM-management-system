@@ -21,8 +21,8 @@ This is a simple Python-based ATM Management System created with Python programm
 
 I will continue improving this project by adding:
 
--Multiple user and accounts
--Transaction Date and time
+- Multiple user and accounts
+- Transaction Date and time
 
 
-##Created by: Arpan Arun Ghosh
+Created by: Arpan Arun Ghosh
